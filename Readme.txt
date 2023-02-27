@@ -1,4 +1,5 @@
 Praca napisana przez Cong Minh Vu, s25206 11c
+(txt bo taki był wymóg zadania)
 
 
 1. Kompilacja:
