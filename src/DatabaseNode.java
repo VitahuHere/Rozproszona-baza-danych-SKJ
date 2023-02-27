@@ -1,3 +1,7 @@
+/*
+ * @author Cong Minh Vu s25206
+ */
+
 import java.util.ArrayList;
 
 public class DatabaseNode {
